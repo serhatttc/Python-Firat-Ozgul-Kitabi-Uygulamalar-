@@ -124,7 +124,7 @@ def function(**bilgiler):
 # {:<11} burda <11 demek boşluk bırakmak demek. sola yaslamak demek      
 # {:>11} burda >11 demek boşluk bırakmak demek. sağa yaslamak demek    
     print("-"*30)
-function(ad="serhat",soyad="çağlar",tel="05348911500")   
+function(ad="serhat",soyad="çağlar",tel="05555555555")   
 
 
 # ** işaretlerinin betimlediği parametreler 'kwargs' olarak adlandırılır. 
