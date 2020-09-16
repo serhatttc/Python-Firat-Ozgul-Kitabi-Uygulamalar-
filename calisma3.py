@@ -32,7 +32,7 @@ age = int(input("Yaşınız : "))
 if age == 18:
     print("18 iyidir.")
 elif age < 0:
-    print("Siktir git.")
+    print("Ya git işine.")
 elif age < 18:
     print("Küçüksün.")
 elif age > 18:
