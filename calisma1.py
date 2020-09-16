@@ -87,11 +87,11 @@ finish""")
 
 #%%
 
-print("serhat","çağlar","bilecik",1996,sep="\n")
+print("serhat","çağlar","bilecik",1994,sep="\n")
 
 print("serhat\nçağlar")
 
-print("benim adım serhat","senin adın cema",sep=",\n",end=".")
+print("benim adım serhat","senin adın serdar",sep=",\n",end=".")
 
 #%%
 
